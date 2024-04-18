@@ -1,0 +1,19 @@
+1 : axios package
+2 : bootstrap 
+    import it on index.js
+    import 'bootstrap/dist/css/bootstrap.min.css'
+3 : npm i react-bootstrap 
+    this allows us to use bootstrap components
+4 : fontawesome icons
+    npm install @fortawesome/react-fontawesome
+    use font awesome icons
+5 : npm install @fortawesome/free-solid-svg-icons
+6 : to play movie player within the page we will use react player
+    npm install react-player
+7 : react router dom
+    npm install react-router-dom
+8 : implement carousel using material ui
+    we should install 3 packages to do this
+    npm install @mui/material @emotion/react @emotion/styled
+    to use the carousel lets use 
+    npm install react-material-ui-carousel
